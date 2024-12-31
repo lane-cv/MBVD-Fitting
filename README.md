@@ -6,5 +6,5 @@ MBVD fitting, calculated parameters from measured impedance: R0, C0, R1, L1, C1,
 ![image](https://github.com/lane-cv/MBVD-Fitting/blob/main/model%20circuits.png) \
 **Example Result**: \
 ![image](https://github.com/lane-cv/MBVD-Fitting/blob/main/example%20result.png) \
-Thanks to Chatgpt
+Thanks to Chatgpt \
 **If this works for you, please give a star. Thank you.** 
