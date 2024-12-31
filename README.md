@@ -3,8 +3,8 @@ MBVD fitting, calculated parameters from measured impedance: R0, C0, R1, L1, C1,
 **Reference** : Larson J D, Bradley P D, Wartenberg S, et al. Modified Butterworth-Van Dyke circuit for FBAR resonators and automated measurement system[C]//2000 IEEE ultrasonics symposium. proceedings. an international symposium (Cat. No. 00CH37121). IEEE, 2000, 1: 863-868. \
 **Runtime Environment** ： Matlab 2022a \
 **Model Circuits**: \
-![image](https://github.com/lane-cv/MBVD-Fitting/blob/main/model%20circuits.png)
+![image](https://github.com/lane-cv/MBVD-Fitting/blob/main/model%20circuits.png) \
 **Example Result**: \
+![image](https://github.com/lane-cv/MBVD-Fitting/blob/main/example%20result.png) \
 
-
-**If this works for you, please give a star. Thank you.** 
+**If this works for you, please give a star. Thank you.** \
