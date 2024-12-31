@@ -11,10 +11,10 @@ clc;
 close all;
 %% Custom initial data
 % Define frequency range
-f = 200:0.06:800; 
+f = 2000:1:8000; 
 
 % Select six non-series or non-parallel resonance frequencies
-selected_frequencies = [260, 320, 560, 620, 680, 740];
+selected_frequencies = [2600, 3200, 5600, 6200, 6800, 7400];
 
 % Set file path, file format must be xlsx
 % The first column is frequency (Hz), the second column is impedance magnitude (mag), and the third column is impedance angle (deg)
